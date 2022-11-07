@@ -1,0 +1,10 @@
+node_modules
+db
+logs
+.wwebjs_auth
+build/*
+src/logs
+credentials.txt
+Goals.txt
+
+

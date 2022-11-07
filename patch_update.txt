@@ -1,0 +1,14 @@
+*UPDATE*
+
+    -changed the ```-joke vro``` 
+    command to ```-vromo``` command
+
+    -Added vromo bot exclusive commands to makima bot
+    
+    -commands reki and aesthetic are enabled again
+
+    -Added help section for commands
+
+    command for help section: -help
+
+thanks for using makima bot <3
